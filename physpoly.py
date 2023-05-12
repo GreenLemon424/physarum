@@ -56,7 +56,7 @@ realistic=1
 #PARAMS
 trail_diffuse = 0.01
 trail_decay = 0.1
-trail_feed = 0.1
+trail_feed = 0.12
 
 
 sensor_angle = 0.8
